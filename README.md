@@ -3,7 +3,6 @@ This repository contains the analysis and insights generated from a dataset rela
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Installation](#installation)
 - [Data Files](#data-files)
 - [Project Workflow](#project-workflow)
 - [Analysis Highlights](#analysis-highlights)
